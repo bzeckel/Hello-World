@@ -2,8 +2,10 @@
 
 using namespace std;
 
-void main(int argc, char** argv)
+int main(int argc, char** argv)
 {
-   cout << "hello world!" << endl;
+  cout << "hello world!" << endl;
+
+  return 0; 
 }
   
